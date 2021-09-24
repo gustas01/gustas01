@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou aprendendo desenvolvimento web, iniciando em ReactJS.
 - 💞️ Já estudei linguagens como C, C++ e Java, mas não sou especialista em nenhuma delas. Porém tenho bons conhecimentos dos conceitos, estruturas de dados e paradigmas de programação.
 - 📫 Seguem meus contatos e mais informações sobre mim:    
-<a href="https://www.linkedin.com/in/gustavo-lima-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gustavohdlima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/gustavohdlima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ##
