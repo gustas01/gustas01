@@ -1,6 +1,5 @@
-- 👋 Sou o Gustavo, aluno de ciência da computação na Universidade Federal de Itajubá (UNIFEI).
-- 👀 Sou muito interessado por desenvolvimento de software. Estou muito disposto à aprender e a crescer sempre, pois gosto muito da área.
-- 🌱 Atualmente estou aprendendo desenvolvimento web, iniciando em ReactJS e NodeJS.
+- 👀 Muito interessado por desenvolvimento de software. Estou muito disposto à aprender e a crescer sempre, pois gosto muito da área.
+- 🌱 Atualmente estou aprendendo desenvolvimento web, com ReactJS e NodeJS. Também já estudei um pouco de Angular2+.
 - 💞️ Já estudei linguagens como C, C++ e Java, mas não sou especialista em nenhuma delas. Porém tenho bons conhecimentos dos conceitos, estruturas de dados e paradigmas de programação.
 - 📫 Seguem meus contatos e mais informações sobre mim:    
 <a href="https://www.linkedin.com/in/gustavohdlima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
