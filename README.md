@@ -1,6 +1,6 @@
-- 🌱 Desenvolvedor web com Angular, Node e NestJS.
-- 💞️ Já estudei linguagens como C#(.net Core) e Java(Spring), mas não sou especialista em nenhuma delas. Porém tenho bons conhecimentos dos conceitos, estruturas de dados e paradigmas de programação.
-- 📫 Seguem meus contatos e mais informações sobre mim:    
+- Desenvolvedor web com Angular, Node e NestJS.
+- Já estudei linguagens como C#(.net Core) e Java(Spring), mas não sou especialista em nenhuma delas. Porém tenho bons conhecimentos dos conceitos, estruturas de dados e paradigmas de programação.
+- Seguem meus contatos e mais informações sobre mim:    
 <a href="https://www.linkedin.com/in/gustavohdlima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://gustavohdlima.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-MySite-orange?style=for-the-badge&%20&logo=SitePoint&logoColor=white" target="_blank"></a>
 
